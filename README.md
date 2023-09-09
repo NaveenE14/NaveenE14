@@ -1,5 +1,5 @@
 #  <img src="https://emojis.slackmojis.com/emojis/images/1588315024/8823/hyperkitty.gif?1588315024" width="30" /> Hi, welcome to my GitHub profile
-I'm a passionate AI enthusiast with a love for competitive coding, prompt engineering, and content creation. I'm constantly exploring the exciting world of artificial intelligence, solving coding challenges, and creating content to share my knowledge and experiences with the community. Join me on this journey of learning and innovation as we explore the possibilities of AI and technology together. 
+I'm a passionate AI enthusiast with a love for competitive coding, prompt engineering, and content creation. I'm constantly exploring the exciting world of artificial intelligence, solving coding challenges, and creating content .
 
 # 👋 About Me
 
