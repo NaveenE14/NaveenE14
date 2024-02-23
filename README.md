@@ -38,24 +38,24 @@
   </table>
 </div>
 
-<!-- Quotes Section -->
-<p align="center">
-  <img src="https://emojis.slackmojis.com/emojis/images/1646113210/54630/quotes.png?1646113210" width="28" /> Quotes
-</p>
+<div style="display: flex; justify-content: space-around;">
+  <!-- LeetCode Stats -->
+  <div align="center">
+    <p align="center">
+      <h2>LeetCode Stats</h2>
+    </p>
+    <img src="https://leetcard.jacoblin.cool/NaveenE?theme=dark&font=Poppins&ext=contest" alt="LeetCode Stats" />
+  </div>
 
-<p align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" alt="Quotes">
-</p>
+  <div align="center">
+    <p align="center">
+      <h2>GitHub Stats</h2>
+    </p>
+    <img src="https://github-readme-stats.vercel.app/api?username=NaveenE14&show_icons=true&theme=dark&custom_title=NaveenE14's%20GitHub%20Stats" alt="GitHub Stats" />
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=NaveenE14&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact" alt="Top Languages" />
+  </div>
+</div>
 
-<!-- GitHub Stats Section -->
-<p align="center">
-  <h2>GitHub Stats</h2>
-</p>
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=NaveenE14&show_icons=true&theme=dark&custom_title=NaveenE14's%20GitHub%20Stats" alt="GitHub Stats" />
-</p>
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=NaveenE14&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact" alt="Top Languages" />
-</p>
+
