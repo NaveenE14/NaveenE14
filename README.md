@@ -11,7 +11,7 @@
 
 
 <p align="center">
- Hi there! I'm Naveen, a passionate coder with a love for crafting innovative solutions to real-world problems. With a keen interest in [specific technology or field], I thrive on the challenges of software development and enjoy exploring new technologies to expand my skill set.
+ Hi there! I'm Naveen, a passionate coder with a love for crafting innovative solutions to real-world problems.I thrive on the challenges of software development and enjoy exploring new technologies to expand my skill set.
 <p allign="center" 
   
 
