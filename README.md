@@ -33,9 +33,9 @@
       <td style="width: 50%; text-align: left; padding-right: 20px; vertical-align: top;">
         <h2>About Me</h2>
         <ul style="list-style-type: none; padding-left: 0;">
-          <li>🤖 AI Enthusiast</li>
-          <li>💻 Competitive Coder</li>
-          <li><img src="https://emojis.slackmojis.com/emojis/images/1677501454/64366/chat-gpt.png?1677501454" width="14"/> Prompt Engineer</li>
+          <li>💻 Software Development Engineer</li>
+          <li>🧑‍💻 Competitive Coder</li>
+          <li>    <img src="https://emojis.slackmojis.com/emojis/images/1677501454/64366/chat-gpt.png?1677501454" width="14"/>  Prompt Engineer</li>
           <li>🚀 Full-Stack Developer</li>
           <li>🔭 Exploring AI tools</li>
         </ul>
