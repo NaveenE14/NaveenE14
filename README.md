@@ -8,12 +8,25 @@
   <img src="https://i.pinimg.com/originals/61/71/81/6171819be4c31993357d758196c75701.gif" alt="Your Alt Text" style="max-width: 400px;">
 </p>
 
+
+
 <p align="center">
  Hi there! I'm Naveen, a passionate coder with a love for crafting innovative solutions to real-world problems. With a keen interest in [specific technology or field], I thrive on the challenges of software development and enjoy exploring new technologies to expand my skill set.
+<p allign="center" 
+  
+
+
+
 </p>
+
 
 <!-- Two-Column Layout for About Me and Connect with Me -->
 <div align="center">
+
+  
+  ![Badge](https://cp-logo.vercel.app/leetcode/NaveenE?logo=true)
+  ![Badge](https://cp-logo.vercel.app/codechef/naveen_e?logo=true)
+  
   <table style="width: 100%; max-width: 800px; border-collapse: collapse;">
     <tr>
       <!-- Left Column (About Me) -->
@@ -23,7 +36,7 @@
           <li>🤖 AI Enthusiast</li>
           <li>💻 Competitive Coder</li>
           <li><img src="https://emojis.slackmojis.com/emojis/images/1677501454/64366/chat-gpt.png?1677501454" width="14"/> Prompt Engineer</li>
-          <li>🎥 Content Creator</li>
+          <li>🚀 Full-Stack Developer</li>
           <li>🔭 Exploring AI tools</li>
         </ul>
       </td>
@@ -54,4 +67,5 @@
     <img src="https://github-readme-stats.vercel.app/api?username=NaveenE14&show_icons=true&theme=dark&custom_title=NaveenE14's%20GitHub%20Stats" alt="GitHub Stats" style="max-width: 300px;" />
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=NaveenE14&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact" alt="Top Languages" style="max-width: 300px;" />
   </div>
+  
 </div>
