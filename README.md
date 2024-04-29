@@ -46,7 +46,6 @@
         <div style="display: flex; flex-direction: column;">
           <a href="https://www.linkedin.com/in/naveen-e/"><img src="https://user-images.githubusercontent.com/74038190/235294012-0a55e343-37ad-4b0f-924f-c8431d9d2483.gif" alt="LinkedIn" width="50" /></a>
           <a href="https://wa.me/+919043881337"><img src="https://user-images.githubusercontent.com/74038190/235294019-40007353-6219-4ec5-b661-b3c35136dd0b.gif" alt="WhatsApp" width="50" /></a>
-          <a href="https://www.youtube.com/@Karadiofficial"><img src="https://i.postimg.cc/7CKBTp9f/371907120-YOUTUBE-ICON-TRANSPARENT-1080.gif" alt="YouTube" width="50" /></a>
           <a href="https://discordapp.com/channels/@me/naveene14"><img src="https://i.postimg.cc/Px31hTPV/372108630-DISCORD-LOGO-1080.gif" alt="Email" width="50" /></a>
         </div>
       </td>
